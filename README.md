@@ -1,0 +1,29 @@
+# MAPEO (Nigerian Team) Informational Documents
+---
+## About MAPEO
+To quote the creators of MAPEO, [Digital Democracy](https://www.digital-democracy.org/):
+
+"Mapeo is an open source, local-first map editor. Mapeo makes it easy for individuals or teams to create maps and organize stories and knowledge."
+
+"Mapeo leverages the same easy-to-use editor and flexible data structure as OpenStreetMap. It is powered by a peer-to-peer database that enables offline collaboration and control over data sharing."
+
+Links to the MAPEO User Guide, MAPEO videos on YouTube, and Earth Defenders Toolkit:
+
+[MAPEO User Guide](https://docs.mapeo.app/)
+
+[Digital Democracy YouTube](https://www.youtube.com/user/digitaldemocracycam)
+
+[Earth Defenders Toolkit](https://www.earthdefenderstoolkit.com/)
+
+---
+
+## About These Informational Docs
+
+These documents have been created to help teach those that will be guiding others in the use of MAPEO.  These documents and videos break down the functions within MAPEO into small segements. This was done to ensure that those who have taken on the opportunity to teach others will have detailed instruction to aid in the distance/remote learning process of new technology. 
+
+The information within each Tutorial Page will be available to download as a PDF with or without images to help get everyone what they need, regardless of the qulaity of internet connectivity. 
+
+Videos have been included where it seems beneficial to show the continous flow of a task, and will be included on a separate link.
+
+
+---
