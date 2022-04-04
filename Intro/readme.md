@@ -2,9 +2,9 @@
 
 ---
 
-## [Image of Mobile Screen Diagram PDF](docsPDF/AdamawaPDF.pdf)
+### [Image of Mobile Screen Diagram PDF](docsPDF/AdamawaPDF.pdf)
 
-## [How to Record Observations PDF](docsPDF/recordObservations.pdf)
+### [How to Record Observations PDF](docsPDF/recordObservations.pdf)
 
 ---
 
@@ -12,5 +12,5 @@
 
 ---
 
-# How to Create New Observations in MAPEO 
+## How to Create New Observations in MAPEO 
 ![figure1.1.1.png](images/IntroTextAi.png)
