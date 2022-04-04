@@ -2,16 +2,16 @@
 
 ---
 
-## [Edit or Delete Observations in Desktop without Images PDF](docsPDF/DesktopEditOrDeleteObs.pdf)
+### [Edit or Delete Observations in Desktop without Images PDF](docsPDF/DesktopEditOrDeleteObs.pdf)
 
-## [Edit or Delete Observations in Desktop PDF](docsPDF/DesktopEditOrDeleteObsIMG.pdf)
+### [Edit or Delete Observations in Desktop PDF](docsPDF/DesktopEditOrDeleteObsIMG.pdf)
 
-## [Working with Territory Map Data without Images PDF](docsPDF/DesktopIntroTerritoryMapIMG.pdf)
+### [Working with Territory Map Data without Images PDF](docsPDF/DesktopIntroTerritoryMapIMG.pdf)
 
-## [Working with Territory Map Data PDF](docsPDF/DesktopIntroTerritoryMap.pdf)
+### [Working with Territory Map Data PDF](docsPDF/DesktopIntroTerritoryMap.pdf)
 
 ---
-## Videos To Download
+### Videos To Download
 [Using Filter To Select Data in Desktop](videos/FilterFunction.mov)
 
 [Adding Points Lines and Polygons in Desktop](videos/AddData.mov)

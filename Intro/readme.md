@@ -8,6 +8,7 @@
 
 ---
 
+    
 ![Mobile Diagram](images/Adam.png)
 
 ---
