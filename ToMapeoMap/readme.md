@@ -4,7 +4,7 @@
 
 
 
-## Export your Observation Data as a MAPEO Webmap  
+## Export your Observation Data as a MAPEO Webmap
 ## Documents to Download
 
 ---
