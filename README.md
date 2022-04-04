@@ -30,11 +30,23 @@ Videos have been included where it seems beneficial to show the continous flow o
 
 # Tutorial Pages
 
+[Introduction to MAPEO Mobile](/Intro)
+
 [Custom Configuration for Your Team's MAPEO](/CustomConfig)
+
+[Synchronize (Share Data) Between Mobile Phones and Desktop](/Synchronize)
+
+[Introduction to MAPEO Desktop](/ObsFeturesDesk)
+
+[Choosing What Data to Include to View and Export](/FilterObs)
 
 [The Data is Here in MAPEO desktop, Now What? Part 1: Exporting The Data Collected As GeoJSON](/ExportGeoJSON)
 
 [The Data is Here in MAPEO desktop, Now What? Part 2: Creating a MAPEO WebMap](/ToMapeoMap)
-[]()
-[]()
+
+[Saving Datasets (Database) in MAPEO mobile](/SyncFiles)
+
+[How Can MAPEO Observations be Removed?](/RemoveDBDesk)
+
+[How Are Custom Maptiles Loaded Into MAPEO Mobile?](This is coming soon)
 
