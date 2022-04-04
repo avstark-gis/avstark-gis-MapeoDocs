@@ -1,6 +1,17 @@
-## This is the Introduction to MAPEO mobile
+# Introduction to MAPEO mobile Documents to Download
 
 ---
 
-[Intro PDF](docsPDF/AdamawaPDF.pdf)
-![figure1.1.1.png](images/Adam.png)
+# [Image of Mobile Screen Diagram to Download PDF](docsPDF/AdamawaPDF.pdf)
+
+# [Record Observations Tutorial to Download PDF](docsPDF/recordObservations.pdf)
+
+---
+
+# MAPEO Mobile Screen Diagram
+![Mobile Diagram](images/Adam.png)
+
+---
+
+# How to Create New Observations in MAPEO 
+![figure1.1.1.png](images/IntroTextAi.png)
