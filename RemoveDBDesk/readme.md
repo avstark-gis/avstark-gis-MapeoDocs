@@ -1,4 +1,5 @@
-## Synchronize MAPEO (file to desktop) (desktop to desktop)  **Documents to Download**
+## Synchronize MAPEO (file to desktop) (desktop to desktop)  
+## Documents to Download
 
 ---
 

@@ -1,4 +1,5 @@
-## Synchronize MAPEO (mobile to mobile) and (mobile to desktop) **Documents to Download**
+## Synchronize MAPEO (mobile to mobile) and (mobile to desktop)
+## Documents to Download
 
 ---
 

@@ -1,4 +1,5 @@
-## Loading a Custom Configuration MAPEO Mobile and Desktop **Documents to Download**
+## Loading a Custom Configuration MAPEO Mobile and Desktop
+## Documents to Download
 ---
 
 ### [Custom Configuration for Your MAPEO Mobile and Desktop PDF (No Images)](docsPDF/Configuration.pdf)
