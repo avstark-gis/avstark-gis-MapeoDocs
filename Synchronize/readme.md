@@ -4,7 +4,7 @@
 
 ## [Synch Devices PDF without Images](docsPDF/Sync.pdf)
 
-## [Synch Devices PDF](docsPDF/syncIMG.pdf)
+## [Synch Devices PDF](docsPDF/SynchIMG.pdf)
 
 ---
 
