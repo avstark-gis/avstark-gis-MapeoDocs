@@ -1,7 +1,6 @@
 ## Helpful Links for Using Your mapeomap File
 [My Mapeo Maps](https://maps.mapeo.app/)
-## Export your Observation Data as a MAPEO Webmap
-## Documents to Download
+## Export your Observation Data as a MAPEO Webmap   Documents to Download
 
 ---
 
