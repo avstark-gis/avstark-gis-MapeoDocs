@@ -21,7 +21,7 @@ Links to the MAPEO User Guide, MAPEO videos on YouTube, and Earth Defenders Tool
 
 These documents have been created to help teach those that will be guiding others in the use of MAPEO.  These documents and videos break down the various ways to work within MAPEO into small segements. This was done to ensure that those who have taken on the opportunity to teach others will have detailed instruction to aid in the distance/remote learning process of new technology. 
 
-The information within each Tutorial Page will be available to download as a PDF with or without images to help get everyone what they need, regardless of the qulaity of internet connectivity. 
+The information within each Tutorial Page will be available to download as a PDF with or without images to help get everyone what they need, regardless of the quality of internet connectivity. 
 
 Videos have been included where it seems beneficial to show the continous flow of a task, and will be included on a separate link.
 
