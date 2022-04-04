@@ -2,9 +2,9 @@
 
 ---
 
-## [Synch Devices PDF without Images](docsPDF/Sychronize.pdf)
+## [Synch Devices PDF without Images](docsPDF/Sync.pdf)
 
-## [Synch Devices PDF](docsPDF/SychronizeIMG.pdf)
+## [Synch Devices PDF](docsPDF/SyncIMG.pdf)
 
 ---
 
