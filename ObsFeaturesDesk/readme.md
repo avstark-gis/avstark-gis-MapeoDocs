@@ -12,10 +12,11 @@
 
 ---
 
-## Working with the Territory Map in MAPEO desktop
+
 ![Territory](images/Territory.png)
+
 
 ---
 
-## Edit or Delete Observations in MAPEO desktop
+
 ![Territory](images/EditDelete.png)
