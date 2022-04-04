@@ -8,6 +8,8 @@
 
 ---
 
-![SyncDevices](images/sync.png)
+## Videos To Download
+[Synchronize Mobile and Desktop Observations](videos/Synchronize.mov)
 
 ---
+![SyncDevices](images/sync.png)
