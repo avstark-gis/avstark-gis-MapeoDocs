@@ -11,10 +11,11 @@
 ### [Working with Territory Map Data PDF](docsPDF/DesktopIntroTerritoryMap.pdf)
 
 ---
-### Videos To Download
-[Using Filter To Select Data in Desktop](videos/FilterFunction.mov)
+## Videos To Download
 
-[Adding Points Lines and Polygons in Desktop](videos/AddData.mov)
+### [Using Filter To Select Data in Desktop](videos/FilterFunction.mov)
+
+### [Adding Points Lines and Polygons in Desktop](videos/AddData.mov)
 
 ---
 

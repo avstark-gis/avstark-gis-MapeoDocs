@@ -7,7 +7,6 @@
 ### [How to Record Observations PDF](docsPDF/recordObservations.pdf)
 
 ---
-
     
 ![Mobile Diagram](images/Adam.png)
 
