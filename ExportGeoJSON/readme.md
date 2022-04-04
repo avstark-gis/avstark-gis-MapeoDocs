@@ -14,7 +14,7 @@
 
 [Leaflet site](https://leafletjs.com/)
 
-## Export your Observation Data as a GeoJSON Documents to Download
+## Export your Observation Data as a GeoJSON **Documents to Download**
 
 ---
 
