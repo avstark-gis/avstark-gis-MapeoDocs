@@ -4,7 +4,7 @@
 
 ## [Image of Mobile Screen Diagram to Download PDF](docsPDF/AdamawaPDF.pdf)
 
-## [Record Observations Tutorial to Download PDF](docsPDF/recordObservations.pdf)
+## [How to Record Observations to Download PDF](docsPDF/recordObservations.pdf)
 
 ---
 
