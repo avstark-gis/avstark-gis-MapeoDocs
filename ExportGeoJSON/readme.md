@@ -14,7 +14,7 @@
 
 [Leaflet site](https://leafletjs.com/)
 
-## Synchronize MAPEO (mobile to mobile) and (mobile to desktop) Documents to Download
+## Export your Observation Data as a GeoJSON Documents to Download
 
 ---
 
