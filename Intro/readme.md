@@ -2,9 +2,9 @@
 
 ---
 
-## [Image of Mobile Screen Diagram to Download PDF](docsPDF/AdamawaPDF.pdf)
+## [Image of Mobile Screen Diagram  |  Download PDF](docsPDF/AdamawaPDF.pdf)
 
-## [How to Record Observations to Download PDF](docsPDF/recordObservations.pdf)
+## [How to Record Observations  |  Download PDF](docsPDF/recordObservations.pdf)
 
 ---
 
