@@ -1,4 +1,4 @@
-## Export your Observation Data as a MAPEO Webmap
+# Export your Observation Data as a MAPEO Webmap
 
 ## Helpful Links for Using Your mapeomap File
 [My Mapeo Maps](https://maps.mapeo.app/)
