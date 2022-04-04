@@ -19,7 +19,7 @@ Links to the MAPEO User Guide, MAPEO videos on YouTube, and Earth Defenders Tool
 
 ## About These Informational Docs
 
-These documents have been created to help teach those that will be guiding others in the use of MAPEO.  These documents and videos break down the functions within MAPEO into small segements. This was done to ensure that those who have taken on the opportunity to teach others will have detailed instruction to aid in the distance/remote learning process of new technology. 
+These documents have been created to help teach those that will be guiding others in the use of MAPEO.  These documents and videos break down the various ways to work within MAPEO into small segements. This was done to ensure that those who have taken on the opportunity to teach others will have detailed instruction to aid in the distance/remote learning process of new technology. 
 
 The information within each Tutorial Page will be available to download as a PDF with or without images to help get everyone what they need, regardless of the qulaity of internet connectivity. 
 
@@ -27,3 +27,14 @@ Videos have been included where it seems beneficial to show the continous flow o
 
 
 ---
+
+# Tutorial Pages
+
+[Custom Configuration for Your Team's MAPEO](/CustomConfig)
+
+[The Data is Here in MAPEO desktop, Now What? Part 1: Exporting The Data Collected As GeoJSON](/ExportGeoJSON)
+
+[The Data is Here in MAPEO desktop, Now What? Part 2: Creating a MAPEO WebMap](/ToMapeoMap)
+[]()
+[]()
+
