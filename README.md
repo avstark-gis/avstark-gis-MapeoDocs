@@ -36,7 +36,7 @@ Videos have been included where it seems beneficial to show the continous flow o
 
 [Synchronize (Share Data) Between Mobile Phones and Desktop](/Synchronize)
 
-[Introduction to MAPEO Desktop](/ObsFeaturesDesk)
+[Introduction to MAPEO Desktop](/DesktopIntro)
 
 [Choosing What Data to Include to View and Export](/FilterObs)
 
