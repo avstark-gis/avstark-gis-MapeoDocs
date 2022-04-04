@@ -2,13 +2,12 @@
 
 ---
 
-# [Image of Mobile Screen Diagram to Download PDF](docsPDF/AdamawaPDF.pdf)
+## [Image of Mobile Screen Diagram to Download PDF](docsPDF/AdamawaPDF.pdf)
 
-# [Record Observations Tutorial to Download PDF](docsPDF/recordObservations.pdf)
+## [Record Observations Tutorial to Download PDF](docsPDF/recordObservations.pdf)
 
 ---
 
-# MAPEO Mobile Screen Diagram
 ![Mobile Diagram](images/Adam.png)
 
 ---
