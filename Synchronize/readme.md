@@ -8,6 +8,6 @@
 
 ---
 
-![SyncDevices](images/Synch.png)
+![SyncDevices](images/sync.png)
 
 ---
