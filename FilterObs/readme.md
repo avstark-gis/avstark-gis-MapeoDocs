@@ -1,7 +1,8 @@
-## Filter and Export MAPEO Observations
-## Documents to Download
+# Filter and Export MAPEO Observations
 
----
+--- 
+
+## Documents to Download
 
 ### [Synch Devices PDF without Images](docsPDF/FilterExport.pdf)
 

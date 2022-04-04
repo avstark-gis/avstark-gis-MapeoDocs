@@ -1,7 +1,8 @@
-## Synchronize MAPEO (mobile to mobile) and (mobile to desktop)
-## Documents to Download
+# Synchronize MAPEO (Mobile to mmbile) and (Mobile to Desktop)
 
 ---
+
+## Documents to Download
 
 ### [Synchronize Devices PDF without Images](docsPDF/Sync.pdf)
 

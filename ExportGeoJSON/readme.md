@@ -1,23 +1,25 @@
+# Export your Observation Data as a GeoJSON
+---
+
 ## Helpful Links for Using Your Exported GeoJSON File 
 
-[Using ogr2ogr to convert GeoJSON to PostGIS database or shapefiles](https://morphocode.com/using-ogr2ogr-convert-data-formats-geojson-postgis-esri-geodatabase-shapefiles/)
+### [Using ogr2ogr to convert GeoJSON to PostGIS database or shapefiles](https://morphocode.com/using-ogr2ogr-convert-data-formats-geojson-postgis-esri-geodatabase-shapefiles/)
 
-[GDAL ogr2ogr documentation](https://gdal.org/programs/ogr2ogr.html)
+### [GDAL ogr2ogr documentation](https://gdal.org/programs/ogr2ogr.html)
 
-[GDAL site with download information](https://gdal.org/)
+### [GDAL site with download information](https://gdal.org/)
 
-[geojson.io](https://geojson.io/#map=2/20.0/0.0)
+### [geojson.io](https://geojson.io/#map=2/20.0/0.0)
 
-[About geojson.io](https://geojson.io/about.html)
+### [About geojson.io](https://geojson.io/about.html)
 
-[QGIS site with download information](https://qgis.org/en/site/)
+### [QGIS site with download information](https://qgis.org/en/site/)
 
-[Leaflet site](https://leafletjs.com/)
-
-## Export your Observation Data as a GeoJSON
-## Documents to Download
+### [Leaflet site](https://leafletjs.com/)
 
 ---
+
+## Documents to Download
 
 ### [GeoJSON Export to Map or Database PDF no Images](docsPDF/Sync.pdf)
 

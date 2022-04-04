@@ -1,11 +1,12 @@
-## Synchronize MAPEO (file to desktop) (desktop to desktop)  
-## Documents to Download
+# Delete Observations 
 
 ---
 
-### [MAPEO Syncfile PDF no Images](docsPDF/DesktopSyncFile.pdf)
+## Documents to Download
 
-### [MAPEO Syncfile PDF](docsPDF/DesktopSyncFileIMG.pdf)
+### [Remove Observations (kappa.db file) PDF no Images](docsPDF/removeDataDesktop.pdf)
+
+### [Remove Observations (kappa.db file) PDF](docsPDF/removeDataDesktop.pdf)
 
 ---
 
@@ -13,5 +14,10 @@
 
 ![SyncDevices](images/pathMapeoFldr.png)
 
+---
+## To Remove Observations From Mapeo Mobile
+    The only way to remove Observations from Mapeo mobile is to uninstall and reinstall the app.  
 
-![SyncDevices](images/DbRemove.png)
+---
+
+![SyncDevices](images/RemoveDB.png)

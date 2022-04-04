@@ -1,4 +1,4 @@
-## Loading a Custom Configuration MAPEO Mobile and Desktop
+# Loading a Custom Configuration MAPEO Mobile and Desktop
 ## Documents to Download
 ---
 
