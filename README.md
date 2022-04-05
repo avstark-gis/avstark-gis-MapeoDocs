@@ -17,7 +17,7 @@ Links to the MAPEO User Guide, MAPEO videos on YouTube, and Earth Defenders Tool
 
 ---
 
-## About These Informational Documentss
+## About These Informational Documents
 
  These documents and videos break down the functions available within MAPEO into small segments. This was done to ensure that those who have taken on the opportunity to teach others will have detailed instruction to aid in the distance/remote learning process of new technology. 
 
