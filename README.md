@@ -40,9 +40,9 @@ Videos have been included where it seems beneficial to show the continous flow o
 
 [Choosing What Data to Include to View and Export](/FilterObs)
 
-[The Data is Here in MAPEO desktop, Now What? Part 1: Exporting The Data Collected As GeoJSON](/ExportGeoJSON)
+[The Data is Here in MAPEO Desktop, Now What? Part 1: Exporting The Data Collected As GeoJSON](/ExportGeoJSON)
 
-[The Data is Here in MAPEO desktop, Now What? Part 2: Creating a MAPEO WebMap](/ToMapeoMap)
+[The Data is Here in MAPEO Desktop, Now What? Part 2: Creating a MAPEO WebMap](/ToMapeoMap)
 
 [Saving Datasets (Database) in MAPEO mobile](/SyncFiles)
 
