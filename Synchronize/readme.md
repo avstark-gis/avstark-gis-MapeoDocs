@@ -1,4 +1,4 @@
-# Synchronize MAPEO (Mobile to mmbile) and (Mobile to Desktop)
+# Synchronize MAPEO (Mobile to Mobile) and (Mobile to Desktop)
 
 ---
 
