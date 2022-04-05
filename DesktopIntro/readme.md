@@ -1,4 +1,4 @@
-# MAPEO desktop Working with Observations and Territory Map Data 
+# Working with Observations and Territory Map Data in MAPEO Desktop
 ## Documents to Download
 
 ---
