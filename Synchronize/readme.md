@@ -6,7 +6,7 @@
 
 ### [Synchronize Devices PDF without Images](docsPDF/Sync.pdf)
 
-### [Synchronize Devices PDF](docsPDF/SynchIMG.pdf)
+### [Synchronize Devices PDF](docsPDF/SyncIMG.pdf)
 
 ---
 
