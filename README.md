@@ -13,7 +13,6 @@ Links to the MAPEO User Guide, MAPEO videos on YouTube, and Earth Defenders Tool
 
 [Digital Democracy YouTube](https://www.youtube.com/user/digitaldemocracycam)
 
-[Earth Defenders Toolkit](https://www.earthdefenderstoolkit.com/)
 
 ---
 
