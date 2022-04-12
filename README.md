@@ -44,7 +44,7 @@ Videos have been included where it seems beneficial to show the continous flow o
 
 [The Data is Here in MAPEO Desktop, Now What? Part 2: Creating a MAPEO WebMap](/ToMapeoMap)
 
-[Saving Datasets (Database) in MAPEO mobile](/SyncFiles)
+[Saving Datasets (Database) in MAPEO with SynchFiles](/SynchFiles)
 
 [How Can MAPEO Observations be Removed?](/RemoveDBDesk)
 
